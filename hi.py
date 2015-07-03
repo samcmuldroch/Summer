@@ -56,7 +56,3 @@ while running:
 		print("Too easy. Done")
 	else:
 		print("That wasn't one of the options moron. Try again.")
-
-
-
-
